@@ -23,13 +23,13 @@ A responsive React + Redux application that tracks cryptocurrency prices in real
 ## Setup Instructions
 
 1. Clone the repository
-
+-> https://github.com/ishu7219/Crypto-price-tracker.git
 
 2. Install dependencies
-npm install
+-> npm install
 
 3. Start the development server
-npm start
+-> npm start
 
 
 4. Open http://localhost:3000 to view the application
